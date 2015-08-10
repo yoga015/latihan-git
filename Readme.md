@@ -1,1 +1,4 @@
-1 kepala
+kepala
+pundak
+kaki
+tangan
