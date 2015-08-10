@@ -1,4 +1,12 @@
+<br>
 kepala
+</br>
+<br>
 pundak
+</br>
+<br>
 kaki
+</br>
+<br>
 tangan
+</br>
