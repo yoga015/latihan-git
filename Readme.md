@@ -1,8 +1,7 @@
-<br>
+
 kepala
-</br>
 <br>
-pundak
+bahu
 </br>
 <br>
 kaki
